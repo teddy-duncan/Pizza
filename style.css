@@ -1,0 +1,22 @@
+h3
+{
+margin-top: 20px;
+margin-bottom: 20px;
+}
+#submit_button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#sort_button{
+        margin-top: 20px;
+        margin-bottom: 20px;
+        display:none;
+}
+input{
+        margin:10px;
+}
+.bg{
+    background-image:url("https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/phut_0.jpg?itok=h30EAnkk") ;
+background-position: center;
+background-size: cover;
+}
